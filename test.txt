@@ -1,0 +1,5 @@
+#mongoose
+
+Schema- Define the structure
+    Schema - Model
+    Using this Model we do CRUD operation
