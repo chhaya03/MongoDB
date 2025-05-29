@@ -21,3 +21,19 @@ Nodemon is a development tool that automatically restarts your Node.js server wh
 </ul>
 
 
+
+<h1>What is MongoDB?</h1>
+MongoDB is a NoSQL database — it's used to store and manage data, just like MySQL or PostgreSQL, but with a different approach.
+
+<h2>🧠 Think of it like this:</h2>
+Instead of storing data in tables with rows and columns (like SQL databases),<br>
+MongoDB stores data in collections with documents that look like JSON objects.
+
+
+<h2>🛠️ Tools:</h2>
+MongoDB = the database<br>
+Mongoose = a popular Node.js library to interact with MongoDB easily
+
+<h2>🔄 Relationship with Node.js:</h2>
+You can use Node.js + Express.js for the server, and MongoDB to store your data.
+
